@@ -1,0 +1,13 @@
+Paths to set:
+-path to repo for exported Excel and CSV file
+-path to repo for exported HTML files
+-path to repo for exported PDF/image files
+
+Python packages:
+-datetime
+-requests
+-random
+-pandas
+-bs4
+-time
+-csv

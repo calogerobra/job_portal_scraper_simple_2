@@ -1,0 +1,547 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="sh" xml:lang="sh" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Katër kamariere Petrol Company - Prishtinë - Kosovë
+  </title>
+  <meta content="Copyright © 2003-2015 - Ofertapune. All rights reserved." name="copyright"/>
+  <meta content="Katër kamariere Prishtinë - Kosovë" name="keywords">
+   <meta content="Petrol Company sh.p.k. - PrishtinÃ«, KosovÃ« shpall  KONKURS  PÃ«r vendin e lirÃ« tÃ« punÃ«s: KatÃ«r kamariere  TÃ« gjithÃ« tÃ« interesuarit mund tÃ« paraqiten nÃ« zyrat e  Petrol Company ..." name="description"/>
+   <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+   <link href="http://www.ofertapune.com/css.php" rel="stylesheet" type="text/css"/>
+  </meta>
+ </head>
+ <body dir="">
+  <!-- header //-->
+  <!--Bookmark Site script-->
+  <script type="text/javascript">
+   function bookmarksite(title,url){
+if (window.sidebar) // firefox
+	window.sidebar.addPanel(title, url, "");
+else if(window.opera && window.print){ // opera
+	var elem = document.createElement('a');
+	elem.setAttribute('href',url);
+	elem.setAttribute('title',title);
+	elem.setAttribute('rel','sidebar');
+	elem.click();
+} 
+else if(document.all)// ie
+	window.external.AddFavorite(url, title);
+}
+  </script>
+  <head>
+   <script type="text/javascript">
+    var switchTo5x=true;
+   </script>
+   <script src="http://w.sharethis.com/button/buttons.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    stLight.options({publisher: "273fb589-c9c3-4885-ab60-5623843fb431"});
+   </script>
+   <link href="http://www.ofertapune.com/other/shqip/2010/style_2010.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+  </table>
+  <table border="0" cellpadding="0" cellspacing="0" width="0">
+   <tr>
+    <td height="14">
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="header_border" width="970">
+   <tr>
+    <td height="133" style="background-color: #fff; background-image:url(http://www.ofertapune.com/other/shqip/2010/header_bg_bottom.gif); background-position:bottom; background-repeat:repeat-x;" valign="bottom">
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+       <td align="center" height="133" rowspan="3" width="250">
+        <a href="http://www.ofertapune.com/">
+         <img border="0" height="81" src="http://www.ofertapune.com/other/shqip/2010/op_llogo.gif" width="202"/>
+        </a>
+       </td>
+       <td align="center" height="26" valign="top" width="541">
+       </td>
+       <td align="right" height="26" valign="top" width="140">
+        <table border="0" cellpadding="0" cellspacing="0" width="100">
+         <tr>
+          <td colspan="4" height="5">
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="javascript:bookmarksite('Oferta Pune', 'http://www.ofertapune.com')">
+            <img border="0" height="18" src="http://www.ofertapune.com/other/images_all//favorite.gif" width="18"/>
+           </a>
+          </td>
+          <td>
+           <a href="http://www.ofertapune.com/rss/jobs/" target="_new">
+            <img border="0" height="18" src="http://www.ofertapune.com/other/images_all/rss.gif" width="18"/>
+           </a>
+          </td>
+          <td>
+           <a href="http://twitter.com/oferta_pune" target="_new">
+            <img border="0" height="18" src="http://www.ofertapune.com/other/images_all/twitter.jpg" width="18"/>
+           </a>
+          </td>
+          <td>
+           <a href="https://www.facebook.com/pages/Oferta-Pune/317586154807" target="_new">
+            <img border="0" height="18" src="http://www.ofertapune.com/other/images_all/facebook.jpg" width="18"/>
+           </a>
+          </td>
+          <td>
+           <a href="http://www.linkedin.com/groups/Oferta-Pune-Job-Offers-4562806" target="_new">
+            <img border="0" height="18" src="http://www.ofertapune.com/other/images_all/linkedin-icon.png" width="18"/>
+           </a>
+          </td>
+         </tr>
+        </table>
+       </td>
+      </tr>
+      <tr>
+       <td align="center" colspan="2" height="45" valign="top" width="750">
+       </td>
+      </tr>
+      <tr>
+       <td colspan="2" valign="bottom">
+        <table align="right" background="http://www.ofertapune.com/other/shqip/2010/nav_bg.gif" border="0" cellpadding="0" cellspacing="0" class="header_nav" width="450">
+         <tr>
+          <td height="33">
+           <table border="0" cellpadding="0" cellspacing="0" class="nav_font" width="100%">
+            <tr>
+             <td align="center" width="119">
+              <a href="http://www.ofertapune.com/">
+               BALLINA
+              </a>
+             </td>
+             <td align="center" width="1">
+              <img height="33" src="http://www.ofertapune.com/other/shqip/2010/nav_split.gif" width="1"/>
+             </td>
+             <td align="center" width="119">
+              <a href="http://www.ofertapune.com/jobseekers_home.php">
+               PUNËKËRKUES
+              </a>
+             </td>
+             <td align="center" width="1">
+              <img height="33" src="http://www.ofertapune.com/other/shqip/2010/nav_split.gif" width="1"/>
+             </td>
+             <td align="center" width="119">
+              <a href="http://www.ofertapune.com/employers_home.php">
+               PUNËDHËNËS
+              </a>
+             </td>
+             <td align="center" width="1">
+              <img height="33" src="http://www.ofertapune.com/other/shqip/2010/nav_split.gif" width="1"/>
+             </td>
+             <td align="center" width="119">
+              <a href="http://www.ofertapune.com/support.php">
+               PËRKRAHJA
+              </a>
+             </td>
+            </tr>
+           </table>
+          </td>
+         </tr>
+        </table>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" width="970">
+   <tr>
+    <td bgcolor="#b90204" height="6">
+    </td>
+   </tr>
+  </table>
+  <!-- header_eof //-->
+  <!-- body //-->
+  <table align="center" border="0" cellpadding="0" cellspacing="0" id="maintable" width="970">
+   <tr>
+    <!-- left_navigation //-->
+    <td id="phpjob_topsection" valign="top" width="970">
+     <table align="center" border="0" cellpadding="0" cellspacing="0" height="25" style="border: 1px solid #cdcdcd;" width="970">
+      <tr>
+       <td align="center" height="25">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" style="background-image: url(http://www.ofertapune.com/other/shqip/2010/nav.gif); background-repear: repeat-x;" width="100%">
+         <tr>
+          <td align="right" height="25" valign="middle">
+           <strong>
+            <a href="http://www.ofertapune.com/login/jobseeker/">
+             KYQUNI
+            </a>
+           </strong>
+           <img height="13" hspace="5" src="http://www.ofertapune.com/other/shqip/2010/subnav_separator.gif" width="1"/>
+           <a class="nav" href="http://www.ofertapune.com/jobseeker/registration/">
+            <strong>
+             Regjistrohuni
+            </strong>
+           </a>
+           <img height="13" hspace="5" src="http://www.ofertapune.com/other/shqip/2010/subnav_separator.gif" width="1"/>
+           <a class="nav" href="http://www.ofertapune.com/search_jobs/">
+            <strong>
+             Kërko Punë
+            </strong>
+           </a>
+          </td>
+         </tr>
+        </table>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>
+<tr>
+ <!-- end left_navigation //-->
+ <!-- body_navigation //-->
+ <td height="100%" id="phpjob_mainsection" valign="top" width="100%">
+  <table border="0" cellpadding="0" cellspacing="0" class="body_border" width="100%">
+   <tr>
+    <td bgcolor="#FFFFFF" valign="top">
+     <!--Main Section Start-->
+     <table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="10" width="100%">
+      <tr>
+       <td>
+        <b>
+         Detajet e punës
+        </b>
+        <div align="right">
+         <span class="st_facebook_hcount" displaytext="Facebook">
+         </span>
+         <span class="st_twitter_hcount" displaytext="Tweet">
+         </span>
+         <span class="st_plusone_hcount" displaytext="Google +1">
+         </span>
+         <span class="st_linkedin_hcount" displaytext="LinkedIn">
+         </span>
+         <span class="st_email_hcount" displaytext="Email">
+         </span>
+        </div>
+        <table border="0" cellpadding="2" cellspacing="0" id="idviewjob" width="100%">
+         <tr>
+          <td align="right" colspan="2">
+           <span class="verysmall">
+            Verzioni për shtypje
+           </span>
+           <a href="#" onclick="newwind = window.open('http://www.ofertapune.com/print_version.php?url='+escape('http://www.ofertapune.com/job/1648/print_preview/'),'_blank','scrollbars=yes,menubar=no,resizable=yes,location=no,width=600,height=520,screenX=0,screenY=0,left=0,top=0'); return false;">
+            <img alt="" src="http://www.ofertapune.com/other/images_all/printit.gif"/>
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <table align="center" border="0" cellpadding="2" cellspacing="0" width="100%">
+            <tr>
+             <td nowrap="nowrap" valign="top" width="30%">
+              <strong>
+               Kompania:
+              </strong>
+             </td>
+             <td class="view" valign="top" width="20%">
+              <a class="featured" href="http://www.ofertapune.com/employer/petrol-company/597/" title="Petrol Company">
+               Petrol Company
+              </a>
+             </td>
+             <td align="center" rowspan="2">
+              <a class="tablelist" href="http://www.ofertapune.com/employer/petrol-company/597/" title="More Jobs from Petrol Company">
+               <img alt="Petrol Company" border="0" src="http://www.ofertapune.com/logo/small_597.png"/>
+              </a>
+             </td>
+            </tr>
+           </table>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Titulli:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           Katër kamariere
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Kategoria e punës:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           Tjetër [
+           <a class="featured" href="http://www.ofertapune.com/category/tjeter/41/" target="_blank">
+            Të gjitha punët në kategorinë Tjetër
+           </a>
+           ]
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2" valign="top" width="100%">
+           <strong>
+            Përshkrimi:
+           </strong>
+          </td>
+         </tr>
+         <tr>
+          <td class="td4textarea" colspan="2" width="100%">
+           Petrol Company sh.p.k. - PrishtinÃ«, KosovÃ« shpall
+           <br/>
+           KONKURS
+           <br/>
+           <br/>
+           PÃ«r vendin e lirÃ« tÃ« punÃ«s:
+           <br/>
+           KatÃ«r kamariere
+           <br/>
+           <br/>
+           TÃ« gjithÃ« tÃ« interesuarit mund tÃ« paraqiten nÃ« zyrat e "Petrol Company"-s nÃ« magjistralen PrishtinÃ« - FushÃ« KosovÃ«. PÃ«r Ã§do informatÃ« shtesÃ« mund tÃ« informoheni nÃ« tel &amp; Fax. +381 (0)38 245 261; +381(0)38 245 262; e-mail: petrolcompany@gmail.com/petrolcompany_k@hotmail.com
+           <br/>
+           Kushtet  e punÃ«s dhe tÃ« pagesÃ«s shumÃ« tÃ« mira
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Shkathtësitë:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="40%">
+           <strong>
+            Gjuhët e kërkuara:
+           </strong>
+          </td>
+          <td class="ulli" width="70%">
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Lloji i punësimit:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           , Me kontratë
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Paga:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           E pacekur
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <div class="bx_jsecseparator">
+            Informatat tjera
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Diploma:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           Kurse Speciale
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Përvoja (vite):
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           E pacekur
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Lokacioni i punës:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           Prishtinë,  Kosovë
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Kodi postar:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           10000
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Data e shpalljes:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           04/09/2007 / Shikuar gjithsejt 5153 herë
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <div class="bx_jsecseparator">
+            Kontakt informatat
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Kompania:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           <a class="featured" href="http://www.ofertapune.com/employer/petrol-company/597/" title="Petrol Company">
+            Petrol Company
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Kontakt emri:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           Petrol Company
+          </td>
+         </tr>
+         <!-- end contact not logged -->
+         <!-- end contact instructions -->
+         <tr>
+          <td valign="top" width="30%">
+           <strong>
+            Kontakt udhëzimet:
+           </strong>
+          </td>
+          <td class="view" width="70%">
+           Të gjithë të interesuarit mund të paraqiten në zyrat e "Petrol Company"-s në magjistralen Prishtinë - Fushë Kosovë. Për çdo informatë shtesë mund të informoheni në tel &amp; Fax. +381 (0)38 245 261; +381(0)38 245 262; e-mail: petrolcompany@gmail.com/petrolcompany_k@hotmail.com
+           <br/>
+           Kushtet  e punës dhe të pagesës shumë të mira
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+           <ul class="hlist">
+            <li>
+             <a href="#" onclick="window.open('http://www.ofertapune.com/email_job/job/1648/', '_blank', 'scrollbars=no,menubar=no,resizable=0,location=no,width=500,height=400,screenX=0,screenY=0,left=0,top=0'); return false;">
+              Dërgoja këto punë mikut apo mikeshës tuaj
+             </a>
+            </li>
+            <li>
+             <a href="http://www.ofertapune.com/job_bookmark.php?todo=add&amp;job_id=1648&amp;back_url=" title="Shenjo punën">
+              Shenjo punën
+             </a>
+            </li>
+           </ul>
+          </td>
+         </tr>
+         <!-- end if not employer and display apply link -->
+        </table>
+        <table align="center" border="0" cellpadding="0" cellspacing="0">
+        </table>
+       </td>
+      </tr>
+     </table>
+     <!--Main Section End-->
+    </td>
+   </tr>
+  </table>
+ </td>
+ <!-- end body_navigation //-->
+ <!-- right_navigation //-->
+ <!-- end right_navigation //-->
+</tr>
+<tr>
+ <td height="1">
+ </td>
+</tr>
+<table align="center" border="0" cellpadding="9" cellspacing="0" style="background-image:url(http://www.ofertapune.com/other/shqip/2010/footer_bg.gif); background-repeat:repeat-x; background-position:top;" width="970">
+ <tr>
+  <td height="100" valign="top" width="100%">
+   <a href="http://www.ofertapune.com/terms.php">
+    Kushtet e përdorimit
+   </a>
+   |
+   <a href="http://www.ofertapune.com/privacy.php">
+    Politikat e intimitetit
+   </a>
+   |
+   <a href="http://www.ofertapune.com/about_us.php">
+    Rreth nesh
+   </a>
+   |
+   <a href="http://www.ofertapune.com/support.php">
+    Përkrahja
+   </a>
+   |
+   <a href="http://www.ofertapune.com/refer.php">
+    Na rekomandoni
+   </a>
+   |
+   <a href="http://www.ofertapune.com/list_companies.php">
+    Bizneset
+   </a>
+  </td>
+ </tr>
+</table>
+<p>
+ Copyright  © 2003-2010. Të gjitha të drejtat e rezervuara. Riprodhimi i plotë apo i pjesërishëm në çfarëdo lloj forme apo mediumi pa autorizimin me shkrim nga
+ <a href="http://www.ofertapune.com.com" target="_new">
+  Ofertapune.com
+ </a>
+ është i ndaluar. Oferta Pune, Ofertapune.com si dhe logot përkatëse janë marka tregtare të
+ <a href="http://www.ofertapune.com" target="_new">
+  Ofertapune.com LLC
+ </a>
+ .
+</p>
+<script type="text/javascript">
+ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+ try {
+var pageTracker = _gat._getTracker("UA-5499831-4");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
